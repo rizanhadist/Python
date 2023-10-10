@@ -20,5 +20,8 @@ if data2 / 100 == 1:
     print("option 1")
 elif data2 * 2 == data1 and data2 * 3> data1 :
     print("option 2")
-else: 
+elif: 
     print("option 3")
+else:
+    print("option 4")
+    
